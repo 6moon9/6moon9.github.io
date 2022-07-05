@@ -10,7 +10,7 @@ I know several languages sush as:
 - `PHP` _Hypertext Preprocessor_
 - `PY` _Python_
 - `VB` _VisualBasic_
-- `MK` _MarkDown_
+- `MD` _MarkDown_
 - `C`
 - `C++`
 - `C#`
