@@ -2,7 +2,7 @@
 This is a webpage to present my self and my projects!
 ***
 ## Code
-I know several languages sush as:
+I know several languages such as:
 - `HTML` _Hyper Text Markup Language_
 - `CSS` _Cascading Style Sheet_
 - `JS` _JavaScript_
